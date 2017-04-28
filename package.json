@@ -19,6 +19,8 @@
   },
   "devDependencies": {
     "code": "^4.0.0",
+    "eslint-config-hapi": "^10.0.0",
+    "eslint-plugin-hapi": "^4.0.0",
     "lab": "^13.0.2",
     "nodemon": "^1.11.0"
   }
